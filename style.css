@@ -7,8 +7,8 @@ html {
   }
   
   body {
-    width: 600px;
-    margin: 20px auto;
+    width: 700px;
+    margin: 10px auto;
     background-color: #FFFFFF;
     padding: 0 20px 20px 20px;
     border: 5px solid black;
@@ -38,7 +38,7 @@ html {
   }
   
   table {
-    margin-left: 20px;
+    margin-left: 100px;
   }
   
   th {
